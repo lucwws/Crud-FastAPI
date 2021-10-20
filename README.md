@@ -46,9 +46,3 @@
 ##### ☔    I'm going to start working on personal projects involving programming (both web and mobile)
 ##### 🔊    I'm a big fan of RAP and I support all the social causes involved in it. ***Blacklivesmatter***
 ##### 🤣    I'm always open to making any kind of friendship and I like to talk to all kinds of people.
-.itachi {
-    -moz-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    transform: scaleX(-1);
-}
