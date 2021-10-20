@@ -26,6 +26,17 @@
 
 ###### I'm currently a front-end developer, I'm still learning and I'm focused on being full-stack. I am an academic of systems analysis and development. I live in Manaus and currently work at CBMAM (Manaus Fire Department). I want to create open source applications that will help me in the learning process.
 
+##
+
+### Social: 
+
+<div style="display: inline_block"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" a ref="https://www.linkedin.com/in/lucwws/">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+
 ### About me 😎
 
 ##### 🚩    I speak Portuguese(native), I'm trying hard to be able to speak English fluently, today I have only one advanced English.
