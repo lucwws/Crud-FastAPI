@@ -5,10 +5,10 @@
   <img height="180em" aling=left src="https://github-readme-stats.vercel.app/api?username=lucwws&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
  <!---<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucwws&layout=compact&langs_count=7&theme=dark"/> --->
 </div>
-  <hr style="border:2px solid gray"></hr>
+
+##
   
-<p>Experiences:
- </p>
+### Experiences:
 
 
 
@@ -20,7 +20,8 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </div>
-<hr style="border:2px solid gray"> </hr>
+  
+##
 
 
 ###### I'm currently a front-end developer, I'm still learning and I'm focused on being full-stack. I am an academic of systems analysis and development. I live in Manaus and currently work at CBMAM (Manaus Fire Department). I want to create open source applications that will help me in the learning process.
