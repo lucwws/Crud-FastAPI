@@ -38,7 +38,7 @@
 ### About me 😎
 
 <div>
-<img class="itachi" aling="right" width="100px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F788552215993689621%2F&psig=AOvVaw1hjD1I4auw0_dWq_koICdF&ust=1635033364302000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJD3iImc3_MCFQAAAAAdAAAAABAD"> 
+<img class="itachi" aling="right" width="100px" src=https://i.pinimg.com/originals/bd/c0/bd/bdc0bd0d5d9c733cec0ff590de044de5.gif"> 
 </div>
 
 ##### 🚩    I speak Portuguese(native), I'm trying hard to be able to speak English fluently, today I have only one advanced English.
