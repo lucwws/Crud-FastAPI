@@ -38,7 +38,7 @@
 ### About me 😎
 
 <div>
-<img class="itachi" aling="right" width="100px" src=lucwws/bdc0bd0d5d9c733cec0ff590de044de5.gif"> 
+<img class="itachi" aling="right"  src=lucwws/bdc0bd0d5d9c733cec0ff590de044de5.gif"> 
 </div>
 
 ##### 🚩    I speak Portuguese(native), I'm trying hard to be able to speak English fluently, today I have only one advanced English.
