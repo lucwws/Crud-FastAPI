@@ -38,7 +38,7 @@
 ### About me 😎
 
 <div>
-<img class="itachi" aling="right"  src=lucwws/bdc0bd0d5d9c733cec0ff590de044de5.gif"> 
+<img class="itachi" aling="right"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fkamado-tanjiro-kimetsu-no-yaiba-demon-slayer-kny-sparkle-gif-17678829&psig=AOvVaw1hjD1I4auw0_dWq_koICdF&ust=1635033364302000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJD3iImc3_MCFQAAAAAdAAAAABAI"> 
 </div>
 
 ##### 🚩    I speak Portuguese(native), I'm trying hard to be able to speak English fluently, today I have only one advanced English.
